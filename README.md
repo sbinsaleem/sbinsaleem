@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sbinsaleem
 
-- 👀 I provide consultancy and training in the field of cyber security and software engineering. I am interested in development and testing of applications, devops, security assurance and information security domains as a consultant, trainer or volunteer contributor.
+- 👀 I provide consultancy and training in the field of cyber security and software engineering. I am interested in development and testing of applications, devops, security assurance and in the field of information security as a consultant, trainer or volunteer contributor.
 
 - 🌱 I constantly upgrade my knowledge by reading, conducting research and by taking part in workshops and trainings.
 
